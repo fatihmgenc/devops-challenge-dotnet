@@ -1,0 +1,15 @@
+C:\Users\Casper\source\repos\Independent\latus\devops-challenge-dotnet\src\DevOpsChallenge.SalesApi.Business\bin\Debug\net5.0\DevOpsChallenge.SalesApi.Business.deps.json
+C:\Users\Casper\source\repos\Independent\latus\devops-challenge-dotnet\src\DevOpsChallenge.SalesApi.Business\bin\Debug\net5.0\DevOpsChallenge.SalesApi.Business.dll
+C:\Users\Casper\source\repos\Independent\latus\devops-challenge-dotnet\src\DevOpsChallenge.SalesApi.Business\bin\Debug\net5.0\DevOpsChallenge.SalesApi.Business.pdb
+C:\Users\Casper\source\repos\Independent\latus\devops-challenge-dotnet\src\DevOpsChallenge.SalesApi.Business\bin\Debug\net5.0\DevOpsChallenge.SalesApi.Database.dll
+C:\Users\Casper\source\repos\Independent\latus\devops-challenge-dotnet\src\DevOpsChallenge.SalesApi.Business\bin\Debug\net5.0\DevOpsChallenge.SalesApi.Database.pdb
+C:\Users\Casper\source\repos\Independent\latus\devops-challenge-dotnet\src\DevOpsChallenge.SalesApi.Business\obj\Debug\net5.0\DevOpsChallenge.SalesApi.Business.csproj.AssemblyReference.cache
+C:\Users\Casper\source\repos\Independent\latus\devops-challenge-dotnet\src\DevOpsChallenge.SalesApi.Business\obj\Debug\net5.0\DevOpsChallenge.SalesApi.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Casper\source\repos\Independent\latus\devops-challenge-dotnet\src\DevOpsChallenge.SalesApi.Business\obj\Debug\net5.0\DevOpsChallenge.SalesApi.Business.AssemblyInfoInputs.cache
+C:\Users\Casper\source\repos\Independent\latus\devops-challenge-dotnet\src\DevOpsChallenge.SalesApi.Business\obj\Debug\net5.0\DevOpsChallenge.SalesApi.Business.AssemblyInfo.cs
+C:\Users\Casper\source\repos\Independent\latus\devops-challenge-dotnet\src\DevOpsChallenge.SalesApi.Business\obj\Debug\net5.0\DevOpsChallenge.SalesApi.Business.csproj.CoreCompileInputs.cache
+C:\Users\Casper\source\repos\Independent\latus\devops-challenge-dotnet\src\DevOpsChallenge.SalesApi.Business\obj\Debug\net5.0\DevOpsChallenge.SalesApi.Business.csproj.CopyComplete
+C:\Users\Casper\source\repos\Independent\latus\devops-challenge-dotnet\src\DevOpsChallenge.SalesApi.Business\obj\Debug\net5.0\DevOpsChallenge.SalesApi.Business.dll
+C:\Users\Casper\source\repos\Independent\latus\devops-challenge-dotnet\src\DevOpsChallenge.SalesApi.Business\obj\Debug\net5.0\ref\DevOpsChallenge.SalesApi.Business.dll
+C:\Users\Casper\source\repos\Independent\latus\devops-challenge-dotnet\src\DevOpsChallenge.SalesApi.Business\obj\Debug\net5.0\DevOpsChallenge.SalesApi.Business.pdb
+C:\Users\Casper\source\repos\Independent\latus\devops-challenge-dotnet\src\DevOpsChallenge.SalesApi.Business\obj\Debug\net5.0\refint\DevOpsChallenge.SalesApi.Business.dll
