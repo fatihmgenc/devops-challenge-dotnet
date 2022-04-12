@@ -64,3 +64,5 @@ C:\Users\Casper\source\repos\Independent\latus\devops-challenge-dotnet\src\DevOp
 C:\Users\Casper\source\repos\Independent\latus\devops-challenge-dotnet\src\DevOpsChallenge.SalesApi\bin\Debug\net5.0\EntityFramework.dll
 C:\Users\Casper\source\repos\Independent\latus\devops-challenge-dotnet\src\DevOpsChallenge.SalesApi\bin\Debug\net5.0\Humanizer.dll
 C:\Users\Casper\source\repos\Independent\latus\devops-challenge-dotnet\src\DevOpsChallenge.SalesApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Casper\source\repos\Independent\latus\devops-challenge-dotnet\src\DevOpsChallenge.SalesApi\bin\Debug\net5.0\DevOpsChallenge.SalesApi.xml
+C:\Users\Casper\source\repos\Independent\latus\devops-challenge-dotnet\src\DevOpsChallenge.SalesApi\obj\Debug\net5.0\DevOpsChallenge.SalesApi.xml
