@@ -30,11 +30,14 @@ namespace DevOpsChallenge.SalesApi.Database
             EntityTypeBuilder<SaleEntity> saleEntity = modelBuilder.Entity<SaleEntity>();
             saleEntity.ToTable("Sale");
             saleEntity.HasKey(x => x.Id);
-
+            
             saleEntity.Property(x => x.TransactionId).IsRequired().HasMaxLength(32);
             saleEntity.Property(x => x.Date).IsRequired();
             saleEntity.Property(x => x.Amount).IsRequired();
             saleEntity.Property(x => x.Notes).HasMaxLength(256);
+
+            // Index based on TransactionId, aiming performance improvement at queries based on this property. - Fatih
+            saleEntity.HasIndex(x => x.TransactionId);  
         }
     }
 }

@@ -147,3 +147,4 @@ C:\Users\Casper\source\repos\Independent\latus\devops-challenge-dotnet\tests\Dev
 C:\Users\Casper\source\repos\Independent\latus\devops-challenge-dotnet\tests\DevOpsChallenge.SalesApi.IntegrationTests\obj\Debug\net5.0\DevOpsChallenge.SalesApi.IntegrationTests.genruntimeconfig.cache
 C:\Users\Casper\source\repos\Independent\latus\devops-challenge-dotnet\tests\DevOpsChallenge.SalesApi.IntegrationTests\bin\Debug\net5.0\EntityFramework.dll
 C:\Users\Casper\source\repos\Independent\latus\devops-challenge-dotnet\tests\DevOpsChallenge.SalesApi.IntegrationTests\obj\Debug\net5.0\refint\DevOpsChallenge.SalesApi.IntegrationTests.dll
+C:\Users\Casper\source\repos\Independent\latus\devops-challenge-dotnet\tests\DevOpsChallenge.SalesApi.IntegrationTests\bin\Debug\net5.0\DevOpsChallenge.SalesApi.xml
