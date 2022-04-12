@@ -110,6 +110,7 @@ namespace DevOpsChallenge.SalesApi
                 app.UseSwaggerUI(c =>
                 {
                     c.SwaggerEndpoint($"/swagger/v1/swagger.json", "sales-api" + ' ' + "v1");
+                    c.RoutePrefix = "";
                 });
             }
 
